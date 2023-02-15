@@ -5,30 +5,33 @@
 </h4>
 
 
-![Recurso 2@10x](https://user-images.githubusercontent.com/20091905/219105281-2affc680-3bd8-4234-9f23-ef6b66ea7006.png)
+![Recurso 2@10x](https://user-images.githubusercontent.com/20091905/219107350-33031d87-b3f6-4f8f-b5a7-3b5da8d8532f.png)
 
 <h4> Objetivo:</h4>
 
-
-Determinación del estadío de la enfermedad de Alzheimer a través de imagenología MRI: Herramienta para la detección de estadío de la enfermedad de Alzheimer a través de imagenología MRI. Se desarrolla con el fin de servir de guía o para correlación por parte del profesional de Neurología. Está enfocado para ser un problema Supervisado con fines de clasificación Multiclases(Estadíos de la Enfermedad)
+Desarrollo de un modelo de aprendizaje profundo para la clasificación eficiente y fiable de diferentes tipos de tumores cerebrales.
 
 <h4>  Dataset:</h4>
-El link del dataset que usamos es el siguiente: https://www.kaggle.com/tourist55/alzheimers-dataset-4-class-of-images
+Se relacionan a continuación:
+https://www.kaggle.com/tourist55/alzheimers-dataset-4-class-of-images
+https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri
+https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
 
-Hay que aclarar que el dataset que usamos fue creado a apartir de las imagenes de la carpeta train, cargamos las imagenes y las transformamos en escala de grises, volvimos un DataFrame las imagenes, le añadimos una columna extra llamada labels que representa alguna de la etapa del Alzheimer y por ultimo permutamos el DataFrame.
+
 
 <h4>  Metodos:</h4>
-Gaussian Naive Bayes
-Decision Tree classifier
-Random Forest classifier
-Support vector machine (SVM) con 3 kernesl (RBF, poly y linear)
-Redes neuronales
-Redes convolucionales
+
+Deep Neural Networks (DNNs)
+Convolutional Neural Networks (CNNs)
+Data Augmentation
+Transfer Learning
+Autoencoders
 
 <h4>  Librerias</h4>
-Numpy, Pandas, Sklearn, Tensorflow, Keras, Matplotlib, Seaborn y Scipy
+Numpy, Pandas, Sklearn, Tensorflow, Keras, Matplotlib, Seaborn y Scipy,
+cv2,os
 Video:
-El link del video es el siguiente: https://www.youtube.com/watch?v=SguUOUBv6LE
+El link del video es el siguiente: shorturl.at/euxCP
 
 <h4> Codigo y repositorio:</h4>
 El link del repositorio con el notebook es el siguiente: https://github.com/camilo64317/TuMoRIa/
