@@ -13,7 +13,6 @@ Desarrollo de un modelo de aprendizaje profundo para la clasificación eficiente
 
 <h4>  Dataset:</h4>
 Se relacionan a continuación:
-https://www.kaggle.com/tourist55/alzheimers-dataset-4-class-of-images,
 https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri,
 https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset,
 
