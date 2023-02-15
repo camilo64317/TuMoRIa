@@ -24,7 +24,8 @@ Deep Neural Networks (DNNs),
 Convolutional Neural Networks (CNNs),
 Data Augmentation,
 Transfer Learning,
-Autoencoders,
+Dataset Fusion
+Autoencoders*,
 
 <h4>  Librerias</h4>
 Numpy, Pandas, Sklearn, Tensorflow, Keras, Matplotlib, Seaborn, Scipy, cv2 y os
