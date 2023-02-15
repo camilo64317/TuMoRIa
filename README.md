@@ -13,25 +13,24 @@ Desarrollo de un modelo de aprendizaje profundo para la clasificación eficiente
 
 <h4>  Dataset:</h4>
 Se relacionan a continuación:
-https://www.kaggle.com/tourist55/alzheimers-dataset-4-class-of-images
-https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri
-https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
+https://www.kaggle.com/tourist55/alzheimers-dataset-4-class-of-images,
+https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri,
+https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset,
 
 
 
 <h4>  Metodos:</h4>
 
-Deep Neural Networks (DNNs)
-Convolutional Neural Networks (CNNs)
-Data Augmentation
-Transfer Learning
-Autoencoders
+Deep Neural Networks (DNNs),
+Convolutional Neural Networks (CNNs),
+Data Augmentation,
+Transfer Learning,
+Autoencoders,
 
 <h4>  Librerias</h4>
-Numpy, Pandas, Sklearn, Tensorflow, Keras, Matplotlib, Seaborn y Scipy,
-cv2,os
-Video:
-El link del video es el siguiente: shorturl.at/euxCP
+Numpy, Pandas, Sklearn, Tensorflow, Keras, Matplotlib, Seaborn, Scipy, cv2 y os
+<h4>Video:</h4>
+El link del video es el siguiente: https://www.shorturl.at/euxCP
 
 <h4> Codigo y repositorio:</h4>
 El link del repositorio con el notebook es el siguiente: https://github.com/camilo64317/TuMoRIa/
